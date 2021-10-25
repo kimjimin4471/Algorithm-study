@@ -1,4 +1,4 @@
-# 모의고사 프로그래머스
+# 모의고사
 def solution(answers):
     answer = []
     s1 = [1, 2, 3, 4, 5]
